@@ -6,4 +6,4 @@ DDoS attacks are wide-reaching, targeting all sorts of industries and company si
 
 <h3 align="left">How does DDOS attack work ? </h3>
 <p align="center">
-  <img src="DDOS-Attack.PNG" width="500" height="300"></br>
+  <img src="DDOS-Attack.PNG" width="400" height="400"></br>
